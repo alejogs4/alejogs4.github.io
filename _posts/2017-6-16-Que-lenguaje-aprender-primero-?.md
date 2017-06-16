@@ -1,6 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: Que lenguaje aprender primero?
 ---
-
-#Que lenguaje aprender primero?
+El lenguaje con el cual empecemos a programar es una decision realmente importante.
