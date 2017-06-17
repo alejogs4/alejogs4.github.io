@@ -21,11 +21,9 @@ pueden ser usados para una amplia gama de propositos, y estas opciones son:
 + [C#](https://docs.microsoft.com/en-us/dotnet/csharp/csharp)
 
 ## Desarrollo de videojuegos
-Columna 1 | Columna 2 | Columna 3
----       | :---:     | ---:
-ab        | abc       | 21
-a         | abcde     | 2122
-aa        | a         | 2
+Python|Javascript|Java|C#
+-------------|-------------|-----|-----
+ SI|SI|SI|SI
 
 Todos estos lenguajes sirven para el desarrollo de videojuegos usando las siguientes herramientas
 + [Pygame (Python)](https://www.pygame.org/news)
