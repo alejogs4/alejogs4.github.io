@@ -30,7 +30,7 @@ Todos estos lenguajes sirven para el desarrollo de videojuegos usando las siguie
  Pygame es una libreria para el desarrollo de videojuegos en dos dimensiones en Python, orientado al manejo de Sprites(Imagenes en videojuegos)
 + [Phaser(Javascript)](https://phaser.io/) Phaser es un framework para el desarrollo de juegos utilizando los navegadores como plataforma,
 ademas puedes llevar tus juegos a dispositios moviles utilizando [Crosswalk](https://crosswalk-project.org/).
-+ [Greenfoot(Java)](https://www.greenfoot.org/door)Greenfoot es un entorno que no solo sirve para desarrollar juegos o simulaciones,si no que es perfecta para empezar a aprender los fundamentos de la porgramacion orientada a objetos.
++ [Greenfoot(Java)](https://www.greenfoot.org/door)Greenfoot es un entorno que no solo sirve para desarrollar juegos o simulaciones,si no que es perfecta para empezar a aprender los fundamentos de la programacion orientada a objetos.
 + [Unity(C#)](https://unity3d.com/es) Este es probablemente el sistema mas poderoso de todos,ya que permite el desarrollo de juegos en 2D y en 3D , ademas permite exportar el juego a una gran multitud de plataformas.
 ![Phaser]({{ site.baseurl }}/images/phaser.PNG "Phaser")
 
@@ -71,7 +71,7 @@ como para IOS.
 Primero que todo te recomiendo que aprendas los fundamentos de programacion y ¿Esto que es?, los fundamentos de programacion son todos aquellos conceptos que sin importar el lenguaje son igualemente validos,y para esto recomiendo [Fundamentos de programacion](https://www.youtube.com/playlist?list=PLVGpDy6YzKnLSRzr0KtMFTPGvhok7jddm).
 
 Despues te recomiendo que elijas algun lenguaje que te apasione y aprendas todo lo que puedas de el, sin importar el que escojas
-apasionate investigar y podras hacer cosas sorprendentes,para terminar quiero decir que este es mi primer post por lo cual recibo recomendaciones y sin mas me despido sin no antes dejarte esta lista de recursos.
+apasionate, investiga y podras hacer cosas sorprendentes,para terminar quiero decir que este es mi primer post por lo cual recibo recomendaciones y sin mas me despido, sin no antes dejarte esta lista de recursos.
 + [Curso Python](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 + [Curso Javascript](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G)
 + [Curso Java](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
