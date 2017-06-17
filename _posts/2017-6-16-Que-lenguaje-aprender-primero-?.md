@@ -21,9 +21,9 @@ pueden ser usados para una amplia gama de propositos, y estas opciones son:
 + [C#](https://docs.microsoft.com/en-us/dotnet/csharp/csharp)
 
 ## Desarrollo de videojuegos
-| Python        | Javascript    |Java   |C#    |
-| ------------- |-------------| -----|-----|
-| SI            |SI             |SI     |SI    |
+|Python| Javascript    |Java   |C#    |
+|-------------|-------------|-----|-----|
+|SI|SI|SI|SI|
 
 Todos estos lenguajes sirven para el desarrollo de videojuegos usando las siguientes herramientas
 + [Pygame (Python)](https://www.pygame.org/news)
@@ -37,9 +37,9 @@ ademas puedes llevar tus juegos a dispositios moviles utilizando [Crosswalk](htt
 Cabe destacar que estas herramientas son mis recomendaciones, existen otras y si quieres saber mas acerca de ellas te invito a investigar.
 
 ## Desarrollo web
-| Python        | Javascript    |Java   |C#    |
-| ------------- |-------------| -----|-----|
-| SI            |SI             |SI     |SI    |
+|Python|Javascript|Java|C#|
+|-------------|-------------|-----|-----|
+| SI|SI|SI|SI|
 
 Como en el caso anterior todos estos lenguajes nos serviran para el desarrollo web
 + [Django(Python)](https://www.djangoproject.com/) 
@@ -51,12 +51,12 @@ parte logica(Backend) de una pagina web,esta parte logica se desarrolla gracias 
 Spring es un framework para el desarrollo de aplicaciones, de código abierto para la plataforma Java.
 + [ASP.NET(C#)](https://www.asp.net/)
 ASP.NET es un entorno para aplicaciones web desarrollado y comercializado por Microsoft. Es usado por programadores y diseñadores para construir sitios web dinámicos, aplicaciones web.
-![NodeJs](https://github.com/alejogs4/alejogs4.github.io/blob/master/images/node.PNG "NodeJS")
+![nodeJs]({{ site.baseurl }}/images/node.PNG "NodeJs")
 
 ## Desarrollo movil
-| Python        | Javascript    |Java   |C#    |
-| ------------- |-------------  | ----- |----- |
-| NO            |SI             |SI     |SI    |
+|Python|Javascript|Java|C#|
+|-------------|-------------|-----|-----|
+|NO|SI|SI|SI|
 
 En este caso Python es el unico lenguaje que no nos servira para el desarrollo de aplicaciones moviles.
 + [PhoneGap(Javascript)](https://phonegap.com/) PhoneGap permite a los programadores desarrollar aplicaciones para dispositivos móviles utilizando herramientas genéricas tales como JavaScript, HTML5 y CSS3. Las aplicaciones resultantes son híbridas, es decir que no son realmente aplicaciones nativas al dispositivo,otra opcion para desarrollar aplicaciones moviles es usar [Ionic](https://ionicframework.com/).
@@ -64,7 +64,7 @@ En este caso Python es el unico lenguaje que no nos servira para el desarrollo d
 + [Xamarin(C#)](https://www.xamarin.com/)Xamarin es una herramienta que permite el desarrollo de aplicaciones moviles tanto para android 
 como para IOS.
 
-![Phonegap](https://github.com/alejogs4/alejogs4.github.io/blob/master/images/phonegap.PNG "Phonegap")
+![Phonegap]({{ site.baseurl }}/images/phonegap.PNG "Phonegap")
 
 ## Que recomiendo?
 
