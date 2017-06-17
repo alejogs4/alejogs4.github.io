@@ -21,9 +21,9 @@ pueden ser usados para una amplia gama de propositos, y estas opciones son:
 + [C#](https://docs.microsoft.com/en-us/dotnet/csharp/csharp)
 
 ## Desarrollo de videojuegos
-|Python| Javascript    |Java   |C#    |
-|-------------|-------------|-----|-----|
-|SI|SI|SI|SI|
+Python| Javascript    |Java   |C#    
+-------------|-------------|-----|-----
+SI|SI|SI|SI
 
 Todos estos lenguajes sirven para el desarrollo de videojuegos usando las siguientes herramientas
 + [Pygame (Python)](https://www.pygame.org/news)
@@ -37,9 +37,9 @@ ademas puedes llevar tus juegos a dispositios moviles utilizando [Crosswalk](htt
 Cabe destacar que estas herramientas son mis recomendaciones, existen otras y si quieres saber mas acerca de ellas te invito a investigar.
 
 ## Desarrollo web
-|Python|Javascript|Java|C#|
-|-------------|-------------|-----|-----|
-| SI|SI|SI|SI|
+Python|Javascript|Java|C#
+-------------|-------------|-----|-----
+ SI|SI|SI|SI
 
 Como en el caso anterior todos estos lenguajes nos serviran para el desarrollo web
 + [Django(Python)](https://www.djangoproject.com/) 
@@ -54,9 +54,9 @@ ASP.NET es un entorno para aplicaciones web desarrollado y comercializado por Mi
 ![nodeJs]({{ site.baseurl }}/images/node.PNG "NodeJs")
 
 ## Desarrollo movil
-|Python|Javascript|Java|C#|
-|-------------|-------------|-----|-----|
-|NO|SI|SI|SI|
+Python|Javascript|Java|C#
+-------------|:---:|-----:|-----
+NO|SI|SI|SI
 
 En este caso Python es el unico lenguaje que no nos servira para el desarrollo de aplicaciones moviles.
 + [PhoneGap(Javascript)](https://phonegap.com/) PhoneGap permite a los programadores desarrollar aplicaciones para dispositivos móviles utilizando herramientas genéricas tales como JavaScript, HTML5 y CSS3. Las aplicaciones resultantes son híbridas, es decir que no son realmente aplicaciones nativas al dispositivo,otra opcion para desarrollar aplicaciones moviles es usar [Ionic](https://ionicframework.com/).
