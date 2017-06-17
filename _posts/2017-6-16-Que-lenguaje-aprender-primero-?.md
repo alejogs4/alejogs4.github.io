@@ -22,7 +22,7 @@ pueden ser usados para una amplia gama de propositos, y estas opciones son:
 
 ## Desarrollo de videojuegos
 | Python        | Javascript    |Java   |C#    |
-| ------------- |:-------------:| -----:|-----:|
+| ------------- |-------------| -----|-----|
 | SI            |SI             |SI     |SI    |
 
 Todos estos lenguajes sirven para el desarrollo de videojuegos usando las siguientes herramientas
@@ -32,13 +32,13 @@ Todos estos lenguajes sirven para el desarrollo de videojuegos usando las siguie
 ademas puedes llevar tus juegos a dispositios moviles utilizando [Crosswalk](https://crosswalk-project.org/).
 + [Greenfoot(Java)](https://www.greenfoot.org/door)Greenfoot es un entorno que no solo sirve para desarrollar juegos o simulaciones,si no que es perfecta para empezar a aprender los fundamentos de la porgramacion orientada a objetos.
 + [Unity(C#)](https://unity3d.com/es) Este es probablemente el sistema mas poderoso de todos,ya que permite el desarrollo de juegos en 2D y en 3D , ademas permite exportar el juego a una gran multitud de plataformas.
-![Phaser](https://github.com/alejogs4/alejogs4.github.io/blob/master/images/phaser.PNG "Phaser")
+![Phaser]({{ site.baseurl }}/images/phaser.PNG "Phaser")
 
 Cabe destacar que estas herramientas son mis recomendaciones, existen otras y si quieres saber mas acerca de ellas te invito a investigar.
 
 ## Desarrollo web
 | Python        | Javascript    |Java   |C#    |
-| ------------- |:-------------:| -----:|-----:|
+| ------------- |-------------| -----|-----|
 | SI            |SI             |SI     |SI    |
 
 Como en el caso anterior todos estos lenguajes nos serviran para el desarrollo web
@@ -55,7 +55,7 @@ ASP.NET es un entorno para aplicaciones web desarrollado y comercializado por Mi
 
 ## Desarrollo movil
 | Python        | Javascript    |Java   |C#    |
-| ------------- |:-------------:| -----:|-----:|
+| ------------- |-------------  | ----- |----- |
 | NO            |SI             |SI     |SI    |
 
 En este caso Python es el unico lenguaje que no nos servira para el desarrollo de aplicaciones moviles.
@@ -63,6 +63,7 @@ En este caso Python es el unico lenguaje que no nos servira para el desarrollo d
 + [Android(Java)](https://developer.android.com/studio/index.html)Java es el lenguaje nativo para la realizacion de aplicaciones android.
 + [Xamarin(C#)](https://www.xamarin.com/)Xamarin es una herramienta que permite el desarrollo de aplicaciones moviles tanto para android 
 como para IOS.
+
 ![Phonegap](https://github.com/alejogs4/alejogs4.github.io/blob/master/images/phonegap.PNG "Phonegap")
 
 ## Que recomiendo?
