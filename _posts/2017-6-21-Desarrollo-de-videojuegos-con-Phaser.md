@@ -15,7 +15,7 @@ HTML5 o en WebGL dependiendo del navegador donde te encuentres, además  de esto
  
  Ahora, puedes empezar a utilizar Phaser de una manera muy fácil como te muestro a continuación:
  
- ## HTML
+## HTML
  ```
 <!DOCTYPE html>
 <html lang="en">
@@ -37,7 +37,7 @@ que servirá como contenedor para nuestro juego.
 
 ## Javascript
 ```
-var game=new Phaser.Game(1110,600,Phaser.AUTO,'game');
+var game=new Phaser.Game(1110,600,Phaser.AUTO,'juego');
 
 var primerMundo={
 
@@ -64,7 +64,7 @@ cabe destacar que puedes tener todos los estados que quieras y que cada estado d
 Phaser además de permitir que nuestro juego sea reproducido en navegadores Web, también  nos permite que nuestro juego sea llevado a 
 plataformas móviles como android y ios, mediante la herramienta de [Crosswalk](https://crosswalk-project.org/), la cual puede funciona de
 una manera parecida a Phonegap pero tiene un mejor performance lo cual permite que la experiencia de usuario se bastante mejor teniendo en cuenta
-que es un juego lo cual siempre sera mas demandante que una apliacion normal.
+que es un juego lo cual siempre sera mas demandante que una aplicacion normal.
 
 Por ultimo te dejo tres paginas para que descargues recursos para tus indie games y aprendas mas sobre Phaser.
 + [Open Game Art](https://opengameart.org/)
