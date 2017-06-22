@@ -14,6 +14,7 @@ HTML5 o en WebGL dependiendo del navegador donde te encuentres, además  de esto
  ![Phaser]({{ site.baseurl }}/images/phaser.PNG "Phaser")
  
  Ahora, puedes empezar a utilizar Phaser de una manera muy fácil como te muestro a continuación:
+ 
  ## HTML
  ```
 <!DOCTYPE html>
@@ -55,7 +56,7 @@ var primerMundo={
 game.state.add('primerMundo',primerMundo);
 game.state.start('primerMundo');
 ```
-En JavaScript se declaran se declaran objetos que en Phaser son llamados estados, en el ejemplo anterior esta el estado primerMundo,
+En JavaScript se declaran objetos que en Phaser son llamados estados, en el ejemplo anterior esta el estado primerMundo,
 cabe destacar que puedes tener todos los estados que quieras y que cada estado debe tener como mínimo los métodos preload,create y update.
 
 # Llevar nuestro juego a moviles
