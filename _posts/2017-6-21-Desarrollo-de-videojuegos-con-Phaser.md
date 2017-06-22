@@ -36,7 +36,7 @@ En la parte de HTML no hay mayor misterio solo se adjuntan los scripts que vayam
 que servirá como contenedor para nuestro juego.
 
 ## Javascript
-```
+```javascript
 var game=new Phaser.Game(1110,600,Phaser.AUTO,'juego');
 
 var primerMundo={
