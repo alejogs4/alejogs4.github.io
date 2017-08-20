@@ -1,5 +1,3 @@
-# ¿Que es un algoritmo?
-
 Hola a todos, con  el siguiente post quiero dar una idea general de que es un algoritmo, desde  como este concepto puede verse en la vida diaria de las personas hasta el significado que tiene en el mundo de la programación.
 
 La definicion formal de algoritmo es:
